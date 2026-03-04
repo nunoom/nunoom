@@ -45,6 +45,9 @@ Atualmente, estou a consolidar bases sólidas em ciência da computação enquan
 
 ## 📊 Estatísticas do GitHub
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nunoom&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunoom&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
