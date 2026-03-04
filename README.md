@@ -85,8 +85,8 @@ Atualmente, estou a consolidar bases sólidas em ciência da computação enquan
   <a href="https://github.com/nunoom">
     <img src="https://img.shields.io/badge/GitHub-nunoom-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:nunoamendes42@email.com">
+    <img src="https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
