@@ -53,9 +53,7 @@ Atualmente, estou a consolidar bases sólidas em ciência da computação enquan
 
 ## 🔥 Sequência de Contribuições
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nunoom&theme=tokyonight&hide_border=true"/>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nunoom&theme=tokyonight&hide_border=true)
 
 ---
 
